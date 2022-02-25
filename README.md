@@ -1,0 +1,2 @@
+# LexiallVersion
+ lexinin tüm yedekleri
